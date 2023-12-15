@@ -1,0 +1,37 @@
+Que 1- What is single page application ?
+
+Ans 1- A Single Page Application (SPA) is a type of web application or website that interacts with the user by dynamically rewriting the current page rather than loading entire new pages from the server. In a traditional multi-page application, clicking on a link or submitting a form typically triggers a full page reload, resulting in a request to the server for a new HTML page.
+
+Que 2- What is DNS and IP Address ?
+
+Ans 2- The Domain Name System (DNS) turns domain names into IP addresses, which browsers use to load internet pages.
+       An Internet Protocol (IP) address is a unique numerical identifier for every device or network that connects to the internet.
+
+Que 3- What is DOM in JS ?
+
+Ans 3- DOM stands for Document Object Model. In the context of JavaScript, the DOM is a programming interface that represents the structure of a document as a tree of objects. These objects can be manipulated and interacted with using JavaScript, providing a way for scripts to dynamically update the content, structure, and style of a web page.
+
+Que 4- What is  React and why we use React instead of JS ?
+
+Ans 4- React is a JavaScript library for building user interfaces, particularly for creating interactive and dynamic user interfaces in web applications. It is maintained by Facebook and a community of individual developers and companies. 
+       React provides good maintenance services for keeping the application running quickly and dynamically, compared to Javascript. Developers can easily maintain and update web applications using react reusable components and virtualDOM, making it superior to plain Javascript for ecommerce.
+
+Que 5- What is JSX and why do we use it instead of js ?
+
+Ans 5- JSX is an addition to the JavaScript syntax which is a mixture of both HTML and JavaScript.
+       JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement() and/or appendChild() methods. JSX converts HTML tags into react elements. 
+
+Que 6- What is package.json ?
+
+Ans 6- package.json is a configuration file used in Node.js projects to manage project metadata and dependencies. It is a crucial part of the Node.js ecosystem and is used to store various pieces of information about a project, such as its name, version, entry point, scripts, and dependencies.
+
+Que 7- What is the Difference between react and react native ? Which one is library or framework ?
+
+Ans 7- React Native uses native components instead of web components to build blocks. React Native is used for mobile platforms but not browsers.
+       where as ReactJs uses web component to build blocks. It is used for web platform.
+       ReactJs is a library and React Native is a framework.
+
+Que 8- What is difference between class and functional component ?
+
+Ans 8- A functional component is just a plain JavaScript pure function that accepts props as an argument and returns a React element(JSX). A class component requires you to extend from React. Component and create a render function that returns a React element.
+
